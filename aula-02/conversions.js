@@ -12,3 +12,7 @@ console.log(numero + numeroString)
 //conversão explicita
 // converte o valor do tipo string para numero
 console.log(numero + Number(numeroString))
+
+// o .toString() é uma outra forma para  fazer essa conversão, que é mais parecida com outras linguagens de programação.
+let telefone = 12341234
+console.log('O telefone é ' + telefone.toString())
