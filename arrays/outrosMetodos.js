@@ -20,4 +20,4 @@ function notas(elemento) {
   console.log(elemento)
 }
 
-notasTurmaB.forEach(notas)
+//notasTurmaB.forEach(notas)
